@@ -1,5 +1,5 @@
 # Game_OOP
-Simple game about a flying dog where I was learning OOP paradigm. Made by me from scratch.
+Game about a flying dog where I was learning OOP paradigm. Made by me from scratch.
 
 made in: Python version 3.7
 
